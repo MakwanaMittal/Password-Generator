@@ -19,7 +19,7 @@ A simple and stylish web-based Password Generator built using **HTML**, **CSS**,
 
 ---
 
-## 🛠Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3 (Modern, responsive design)
